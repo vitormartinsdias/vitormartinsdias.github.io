@@ -1,19 +1,41 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Vitor Martins Dias"
+image: vmdprofile.jpg
+image-shape: rounded
+resources: vmartinsdias_cv.pdf
+about: 
+  id: about-heading
+  template: trestles
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:vmartinsdias@butler.edu
+    - text: CV
+      icon: file-arrow-down-fill
+      href: vmartinsdias_cv.pdf
+      target: blank
+    - text: SSRN
+      icon: journals
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2269952
+      target: blank
+    - text: ResearchGate
+      icon: person-circle
+      href: https://www.researchgate.net/profile/Vitor-Dias-4
+      target: blank
+    - text: Office hours
+      icon: watch
+      href: https://calendly.com/vmartinsdias/
+      target: blank
 ---
 
-:::{#me}
+<p style="text-align: center; font-weight: bold; font-size: 1.2em;">Welcome!</p>
 
-## Goals
+::: {about-heading}
+I am an Assistant Professor in the <a href="https://www.butler.edu/arts-sciences/sociology-criminology/" target="_blank">Department of Sociology and Criminology</a> at Butler University in Indianapolis, Indiana. I am a law and society researcher who explores how legal, political, and social actors influence global and local institutions and organizations, producing social change and reproducing structural inequalities. I study these issues in the U.S. and abroad. My recent research has focused on how these stakeholders shape economic relationships between countries and the manner in which such relationships have contributed to today's climate crisis in the Brazilian Amazon.
 
-## Education
+In addition, I teach and conduct research on two related areas. I examine legal mobilization efforts by grassroots populations and how best these and other actors can improve climate change governance. And, I also analyze patterns of inequality, discrimination, and systemic racism in the legal profession. I have written, for instance, on the challenges Black lawyers have encountered within U.S. law firms. In fact, I was inspired to undertake this line of inquiry because of my long-time affiliation with two leading institutes dedicated to studying lawyers: Harvard Law School's Center on the Legal Profession and Indiana University-Bloomington's Stewart Center on the Global Legal Profession.
 
-## Experience
+My work has appeared in a range of peer-reviewed and law review publications, including in *World Development, Law & Social Inquiry, University of Illinois Law Review, University of Michigan Journal of Law Reform, Sociology of Development, and Cambridge University Press*.
 
+As far as my personal background, I moved from Brazil to the U.S. in 2013. I received my initial law degrees from São Paulo Law School of Fundação Getulio Vargas and Centro Universitário do Pará. In the U.S., I earned my LL.M. and Ph.D. degrees from Indiana University-Bloomington. Before starting my job at Butler in 2023, I was a <a href="https://kellogg.nd.edu/vitor-martins-dias" target="_blank">Visiting Postdoctoral Fellow</a> at the Kellogg Institute for International Studies at the University of Notre Dame in 2022-2023. I am also affiliated with the Center for the Analysis of Social-Ecological Landscapes at IU-Bloomington, and I am currently co-editing a special issue of the *Law & Society Review* on <a href="https://onlinelibrary.wiley.com/page/journal/15405893/homepage/call-for-papers/changing-climate" target="_blank">Law in a Changing Climate</a>.
 :::
-
-Thanks for checking out my web site!

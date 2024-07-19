@@ -1,27 +1,39 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "MY WEB SITE"
+  title: "Vitor Martins Dias"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
-  page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
-
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: "mailto:vmartinsdias@butler.edu"
+        text: Contact
+      
 format:
   html:
-    theme: cerulean
-    toc: true
+    theme: 
+      light: litera
+      dark: cyborg
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-YB00SQ1KXP"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-YB00SQ1KXP');
+        </script>
 
-editor: source
+# editor: visual
 

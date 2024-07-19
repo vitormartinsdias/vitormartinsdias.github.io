@@ -1,0 +1,50 @@
+---
+title: "Publications"
+---
+
+Feel free to reach out if you face any issues accessing my publications.
+
+Krishnan, Jayanth K., Megan Riley, and **Vitor M. Dias**. 2024. "Big Law's Immigration Advocates." *University of Illinois Law Review* 2024 (2): 447--510. <a href="https://illinoislawreview.org/wp-content/uploads/2024/03/Krishnan.pdf" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-biglaw.png){fig-align="center" width="300"}
+
+**Dias, Vitor M. 2023**. “Climate Change, Organizational Culture, and Symbolic Embeddedness in the Brazilian Amazon.” *Sociology of Development* 9 (4): 366–87. [https://doi.org/10.1525/sod.2023.9.4.366](https://doi.org/10.1525/sod.2023.9.4.366). <a href="https://tinyurl.com/299uumhf" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-climate-embed.png){fig-align="center" width="300"}
+
+Delaroche, Martin, **Vitor M. Dias**, and Paulo Eduardo dos Santos Massoca. 2023. “The Intertemporal Governance Challenges of Brazil’s Amazon: Managing Soybean Expansion, Deforestation Rates, and Urban Floods.” *Sustainability Science* 18 (1): 43–58. [https://doi.org/10.1007/s11625-022-01149-4](https://doi.org/10.1007/s11625-022-01149-4). <a href="https://tinyurl.com/2a7xp42k" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-intertemporal.png){fig-align="center" width="300"}
+
+Michelson, Ethan, and **Vitor M. Dias**. 2023. “White Spaces: The Enduring Racialization of American Law Firms.” In *The Making of Lawyers’ Careers*, by Robert L. Nelson, Ronit Dinovitzer, Bryant G. Garth, Joyce S. Sterling, David B. Wilkins, Meghan Dawe, and Ethan Michelson. Chicago, IL: The University of Chicago Press.
+
+
+![](snapshot-lawyers-careers.png){fig-align="center" width="200"}
+
+**Dias, Vitor M.**, Pedro Paulo de Miranda Araújo Soares, Eduardo S. Brondizio, and Sandra Helena Ribeiro Cruz. 2021. “Grassroots Mobilization in Brazil’s Urban Amazon: Global Investments, Persistent Floods, and Local Resistance Across Political and Legal Arenas.” *World Development* 146:105572. [https://doi.org/10.1016/j.worlddev.2021.105572](https://doi.org/10.1016/j.worlddev.2021.105572).
+
+![](snapshot-grassroots.png){fig-align="center" width="700"}
+
+**Dias, Vitor M. 2021**. “Black Lawyers Matter: Enduring Racism in American Law Firms.” *University of Michigan Journal of Law Reform* 55 (1): 99–138. [https://doi.org/10.36646/mjlr.55.1.black](https://doi.org/10.36646/mjlr.55.1.black). <a href="https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2542&context=mjlr" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-blm.png){fig-align="center" width="300"}
+
+**Dias, Vitor M.**, and Alisha Kirchoff. 2021. “The Overlooked Story of the Immigrant Lawyer Experience in the United States: Analyzing Income Differences in the American Legal Profession.” *International Journal of the Legal Profession* 28 (3): 367–80. [https://doi.org/10.1080/09695958.2021.1890090](https://doi.org/10.1080/09695958.2021.1890090).
+
+![](snapshot-overlooked.png){fig-align="center" width="300"}
+
+Glezer, Rubens, **Vitor M. Dias**, Adriane Sanctis de Brito, and Rafael AF Zanatta. 2018. “Transforming Legal Capacity in Brazil: International Trade Law and the Myth of a Booming Practice.” In *The Brazilian Legal Profession in the Age of Globalization: The Rise of the Corporate Legal Sector and Its Impact on Lawyers and Society*, by Luciana Gross Cunha, Daniela Monteiro Gabbay, José Garcez Ghirardi, David M. Trubek, and David B. Wilkins. Cambridge: Cambridge University Press.
+
+![](snapshot-glee.png){fig-align="center" width="200"}
+
+Krishnan, Jayanth K., **Vitor M. Dias**, and John E. Pence. 2016. “Legal Elites and the Shaping of Corporate Law Practice in Brazil: A Historical Study.” *Law & Social Inquiry* 41 (2): 346–70. [https://doi.org/doi:10.1111/lsi.12142](https://doi.org/doi:10.1111/lsi.12142). <a href="https://tinyurl.com/26kosbwb" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-elites.png){fig-align="center" width="300"}
+
+**Dias, Vitor M.** 2016. “International Trade v. Intellectual Property Lawyers: Globalization and the Brazilian Legal Profession.” *Journal of Civil Law Studies* 9:57–125. <a href="https://digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=1168&context=jcls" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+Krishnan, Jayanth K., **Vitor M. Dias**, and Martin Hevia. 2016. “External Forces, Internal Dynamics: Foreign Legal Actors and Their Impact on Domestic Affairs.” *Texas Law Review* 94:995–1022. <a href="https://texaslawreview.org/wp-content/uploads/2016/04/KrishnanEtAl.FinalPDF.pdf" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+
+![](snapshot-external-forces.png){fig-align="center" width="500"}
+
+Krishnan, Jayanth K., and **Vitor M. Dias**. 2015. “The Aspiring and Globalizing Graduate Law Student: A Comment on a Lazarus-Black and Globokar LL. M. Study.” *Indiana Journal of Global Legal Studies* 22 (1): 81–93. <a href="https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1574&context=ijgls" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
