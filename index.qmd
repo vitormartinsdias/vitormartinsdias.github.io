@@ -12,7 +12,7 @@ about:
       href: mailto:vmartinsdias@butler.edu
     - text: CV
       icon: file-arrow-down-fill
-      href: vmartinsdias_cv.pdf
+      href: vmartinsdias_CV.pdf
       target: blank
     - text: SSRN
       icon: journals
