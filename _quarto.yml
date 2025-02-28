@@ -20,9 +20,10 @@ website:
 format:
   html:
     theme: 
-      light: litera
-      dark: cyborg
-    css: styles.css
+      light: [litera, theme-light.scss]
+      dark: [cyborg, theme-dark.scss]
+    mainfont: "Inconsolata"
+    monofont: "Inconsolata"
     toc: false
     include-in-header:
       text: |
